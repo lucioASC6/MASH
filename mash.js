@@ -1,6 +1,6 @@
 let career = ["doctor", "McDonald's employee", "programmer", "actor", "street vendor", "facotry worker"];
 let home = ["Mansion", "Apartment", "Shack", "House", "old cabin", "Sewer"];
-let car = ["Lambo", "Bugati", "Prius", "bus", "cardboard box with wheels", "bike"];
+let car = ["Lambo", "Bugatti", "Prius", "bus", "cardboard box with wheels", "bike"];
 
 const whichHome = getHome();
 const whichCar = getCar();
