@@ -11,7 +11,7 @@ function getCareer() {
 }
 
 function plusMinus() {
-    if (Math.random() < 0.5) {
+    if (Math.random() < 0.2) {
         return "-";
     }
     else {
