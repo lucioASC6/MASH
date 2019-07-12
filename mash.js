@@ -6,6 +6,7 @@ const whichHome = getHome();
 const whichCar = getCar();
 const numOfYears = getYears();
 
+
 function getCareer() {
     return career[Math.floor(Math.random() * 6)];
 }
